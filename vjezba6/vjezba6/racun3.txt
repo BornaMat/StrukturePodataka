@@ -1,0 +1,4 @@
+2020-03-20
+mango, 4, 23
+ananas, 3, 54
+krumpir, 2, 3

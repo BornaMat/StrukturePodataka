@@ -1,0 +1,30 @@
+﻿  Source.c
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(18,2): error C2061: syntax error: identifier 'CityListPosition'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(19,1): error C2059: syntax error: '}'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(54,14): error C2065: 'countryList': undeclared identifier
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(54,14): error C2146: syntax error: missing ';' before identifier 'countryListHead'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(54,30): error C2065: 'countryListHead': undeclared identifier
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(54,32): error C2059: syntax error: '{'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(73,66): error C2065: 'countryList': undeclared identifier
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(76,26): error C2037: left of 'name' specifies undefined struct/union '_countryList'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(76,9): error C2198: 'strcpy': too few arguments for call
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(84,35): error C2065: 'countryListHead': undeclared identifier
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(84,36): error C2224: left of '.next' must have struct/union type
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(84,19): error C2198: 'addCountryToList': too few arguments for call
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(106,32): warning C4133: 'function': incompatible types - from 'CountryListPosition' to 'CityListPosition'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(106,45): warning C4133: 'function': incompatible types - from 'CityTreePosition' to 'CityListPosition'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(107,31): warning C4013: 'addCityToTree' undefined; assuming extern returning int
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(107,42): error C2065: 'newCountry': undeclared identifier
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(107,56): warning C4047: '=': 'CityTreePosition' differs in levels of indirection from 'int'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(116,18): error C2037: left of 'next' specifies undefined struct/union '_countryList'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(116,53): error C2037: left of 'name' specifies undefined struct/union '_countryList'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(116,68): error C2037: left of 'next' specifies undefined struct/union '_countryList'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(116,40): error C2198: 'strcmp': too few arguments for call
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(116,104): error C2037: left of 'next' specifies undefined struct/union '_countryList'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(118,14): error C2037: left of 'next' specifies undefined struct/union '_countryList'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(118,30): error C2037: left of 'next' specifies undefined struct/union '_countryList'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(119,11): error C2037: left of 'next' specifies undefined struct/union '_countryList'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(158,57): warning C4047: '=': 'CityTreePosition' differs in levels of indirection from 'int'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(161,59): warning C4047: '=': 'CityTreePosition' differs in levels of indirection from 'int'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(166,57): warning C4047: '=': 'CityTreePosition' differs in levels of indirection from 'int'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\Vjezba10\Vjezba10\Source.c(169,59): warning C4047: '=': 'CityTreePosition' differs in levels of indirection from 'int'

@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\borna\source\repos\vjezba4\vjezba4\Source.c(6,1): warning C4005: 'EXIT_SUCCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(52): message : see previous definition of 'EXIT_SUCCESS'
+  vjezba4.vcxproj -> C:\Users\borna\source\repos\vjezba4\Debug\vjezba4.exe

@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\vjezba6\vjezba6\Source.c(118,36): warning C4047: 'function': 'artiklPozicija' differs in levels of indirection from 'artiklPozicija *'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\vjezba6\vjezba6\Source.c(118,14): warning C4024: 'addArticle': different types for formal and actual parameter 1
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\vjezba6\vjezba6\Source.c(142,34): warning C4047: 'function': 'artiklPozicija' differs in levels of indirection from 'artiklPozicija *'
+C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\vjezba6\vjezba6\Source.c(142,17): warning C4024: 'deleteArticle': different types for formal and actual parameter 1
+  vjezba6.vcxproj -> C:\Users\borna\OneDrive\Radna površina\faks\StrukturePodataka\vjezba6\Debug\vjezba6.exe
